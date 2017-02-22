@@ -1,0 +1,77 @@
+properties print check
+server is running
+waiting for connection
+0.0.0.0/0.0.0.0
+Now connected to 192.168.1.127
+streams are onlinereading
+the choice is upload
+Car NameFord ZTWdouble basePrice 20000.0 int size 5 OptionSets[] 
+Color int size 10 Options[] options
+String option:Fort Knox Gold Clearcoat Metallic double price 0.0 
+String option:Liquid Grey Clearcoat Metallic double price 0.0 
+String option:Infra-Red Clearcoat double price 0.0 
+String option:Grabber Green Clearcoat Metallic double price 0.0 
+String option:Sangria Red Clearcoat Metallic double price 0.0 
+String option:French Blue Clearcoat Metallic double price 0.0 
+String option:Twilight Blue Clearcoat Metallic double price 0.0 
+String option:CD Silver Clearcoat Metallic double price 0.0 
+String option:Pitch Black Clearcoat double price 0.0 
+String option:Cloud 9 White Clearcoat double price 0.0 
+Transmission int size 2 Options[] options
+String option:automatic double price 0.0 
+String option:manual double price 0.0 
+Brakes/traction int size 3 Options[] options
+String option:standard double price 0.0 
+String option:abs double price 0.0 
+String option:abs with advance Trac double price 0.0 
+SideImpactAirBags int size 2 Options[] options
+String option:none double price 0.0 
+String option:airbags double price 0.0 
+PowerMoonroof int size 2 Options[] options
+String option:no double price 0.0 
+String option:- yes double price 0.0 
+
+*Ford ZTW has been added to the table*
+edit is selected
+Ready to edit
+Ford ZTWis the name recieved
+Ford ZTW is being sent out
+waiting for upload request
+edit is selected
+show is selected
+Set created from LinkedHashMap Keys contains :
+Ford ZTW
+Ford ZTWBLACK
+Car NameToyota Rav4double basePrice 10000.0 int size 5 OptionSets[] 
+Color int size 10 Options[] options
+String option:Fort Knox Gold Clearcoat Metallic double price 0.0 
+String option:Liquid Grey Clearcoat Metallic double price 0.0 
+String option:Infra-Red Clearcoat double price 0.0 
+String option:Grabber Green Clearcoat Metallic double price 0.0 
+String option:Sangria Red Clearcoat Metallic double price 0.0 
+String option:French Blue Clearcoat Metallic double price 0.0 
+String option:Twilight Blue Clearcoat Metallic double price 0.0 
+String option:CD Silver Clearcoat Metallic double price 0.0 
+String option:Pitch Black Clearcoat double price 0.0 
+String option:Cloud 9 White Clearcoat double price 0.0 
+Transmission int size 2 Options[] options
+String option:automatic double price 0.0 
+String option:manual double price 0.0 
+Brakes/traction int size 3 Options[] options
+String option:standard double price 0.0 
+String option:abs double price 0.0 
+String option:abs with advance Trac double price 0.0 
+SideImpactAirBags int size 2 Options[] options
+String option:none double price 0.0 
+String option:airbags double price 0.0 
+PowerMoonroof int size 2 Options[] options
+String option:no double price 0.0 
+String option:- yes double price 0.0 
+
+*Toyota Rav4 has been added to the table*
+edit is selected
+show is selected
+Set created from LinkedHashMap Keys contains :
+Ford ZTW
+Ford ZTWBLACK
+Toyota Rav4

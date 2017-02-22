@@ -1,0 +1,20 @@
+4/18/14
+-Created project
+4/25/14
+-changed input format. No longer using scanner to read from file but bufferedReader and FileReader
+5/1/14
+-added build auto packages and its implementations
+-added class diagram
+-added exception package
+-added findOption and findOptionSets varrations to automobile
+-changed driver class and removed serialzation
+5/14/14
+-Added requirements in lab 3 Still havent fixed errors in lab 2.
+5/24/14
+-added syncronized to getters/setters in automotive class
+-added syncronized to add/remove automobile in build auto
+-added an edit option class
+6/23/14
+-ADDED CLIENT/SERVER PACKAGES
+-ADD server related functions into proxy automobile
+-added property functions and usage
