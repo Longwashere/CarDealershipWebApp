@@ -1,9 +1,0 @@
-testing for FordZTW
-Ford
- ZTW
-testing for Toyota Rav4
-Toyota
- Rav4
-testing option choice setting
-the total price with just transmission 815.0
-the total price with brakes added on 1215.0
